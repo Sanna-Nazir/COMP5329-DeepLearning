@@ -7,14 +7,14 @@ The assignments were completed as part of the COMP5329 unit of The University of
 
 The aim of the project is to build a multilayer neural network from scratch to accomplish a multi-class classification task on the provided dataset **without using any Deep Learning frameworks (Tensorflow, Caffe or Keras)**. The model built had various modules attached to it, namely:
 
-   1. use of more than one hidden layer
-   2. ReLu activation
-   3. Weight decay
-   4. Momentum in SGD
-   5. Dropout
-   6. Softmax and cross-entropy loss
-   7. Mini-batch training
-   8. Batch Normalization
+    1. use of more than one hidden layer
+    2. ReLu activation
+    3. Weight decay
+    4. Momentum in SGD
+    5. Dropout
+    6. Softmax and cross-entropy loss
+    7. Mini-batch training
+    8. Batch Normalization
   
   
 2. [Assignment 2](https://github.com/Sanna-Nazir/COMP5329-DeepLearning/tree/main/Assignment_2)
