@@ -16,6 +16,7 @@ The aim of the project is to build a multilayer neural network from scratch to a
   7. Mini-batch training
   8. Batch Normalization
 
+
 2. [Assignment 2](https://github.com/Sanna-Nazir/COMP5329-DeepLearning/tree/main/Assignment_2)
 
 The goal of this assignment was to implement an image classifier that predicts the labels of image data sample. Each sample of the provided dataset included:
